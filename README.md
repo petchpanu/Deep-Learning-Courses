@@ -2,7 +2,7 @@
 
 ## Graph Neural Network
 
-CS224W: Machine Learning with Graphs
+CS224W: Machine Learning with Graphs \n
 https://web.stanford.edu/class/cs224w/?fbclid=IwAR0VhhBShkDlxFZCszIbPC45avNG3tN6vhYBj6IE34pMlUmqYJb2DAcZqpo
 
 ## Natural Language Processing
